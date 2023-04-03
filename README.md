@@ -1,4 +1,4 @@
-# INSE6210-2023-Project-Group14
+# INSE6120-2023-Project-Group14
 Attacking SSL/TLS implementations-Presentation & Report
 
 Survey existing libraries that implement SSL/TLS protocol (e.g. in browsers, in IoT devices,
